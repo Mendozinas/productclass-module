@@ -1,5 +1,6 @@
 {
   "name": "gmt/productclass",
+  "type": "oxideshop-module",
   "extra": {
     "oxideshop": {
       "target-directory": "gmt/productclass"
