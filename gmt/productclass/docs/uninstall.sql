@@ -1,0 +1,1 @@
+ALTER TABLE `oxarticles` DROP `OXPRODUCTCLASS`;

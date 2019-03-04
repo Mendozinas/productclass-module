@@ -1,0 +1,18 @@
+.productclasstitle {
+    margin: 5px 0px;
+    padding: 5px 10px;
+    display: inline-block;
+}
+.productclassnocolor {
+    background: none;
+    padding: 5px 0px;
+}
+.productclasscolor1 {
+    background: #00bb4e;
+}
+.productclasscolor2 {
+    background: #FF0;
+}
+.productclasscolor3 {
+    background: #f4c779;
+}

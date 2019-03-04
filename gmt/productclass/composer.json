@@ -1,0 +1,13 @@
+{
+  "name": "gmt/productclass",
+  "extra": {
+    "oxideshop": {
+      "target-directory": "gmt/productclass"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "OxidEsales\\ProductClassModule\\": "./"
+    }
+  }
+}
